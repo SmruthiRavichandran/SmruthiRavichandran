@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SmruthiRavichandran
-- 👀 I’m interested in NLP, Generative Art, Prediction models
+- 👀 I’m interested in NLP, Prediction models, Language model etc
 - 🌱 I’m currently learning NLP 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
